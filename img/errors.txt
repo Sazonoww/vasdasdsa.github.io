@@ -1,0 +1,5 @@
+[Mon May 28 2018 16:06:21 GMT+0400 (Московское время (лето))] layer "pro100toxa@factoryadverts.com": Unsupported extension: com
+[Mon May 28 2018 16:06:21 GMT+0400 (Московское время (лето))] layer "specialpiar@gmail.com": Unsupported extension: com
+[Mon May 28 2018 16:06:21 GMT+0400 (Московское время (лето))] layer "+380970198079": Expected Either a default asset specification or a layer asset specification but "+" found.
+[Mon May 28 2018 16:06:21 GMT+0400 (Московское время (лето))] layer "+380669109317": Expected Either a default asset specification or a layer asset specification but "+" found.
+[Mon May 28 2018 16:06:21 GMT+0400 (Московское время (лето))] layer "icons8_Secured_Letter.png": Duplicate path: icons8_Secured_Letter.png

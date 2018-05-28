@@ -1,0 +1,250 @@
+body{
+margin: 0;
+    padding: 0;
+
+}
+.glavn{
+background: url(../img/fonsone.png) no-repeat center top / cover; 
+    height: 2000px;
+
+
+}
+.logo{
+padding: 20px;
+
+
+}
+.menu{
+margin-left: 300px;
+    margin-top: 50px
+}
+.menu__item{
+font-weight:100;
+font-family: 'Roboto', sans-serif;
+padding-left: 40px;
+list-style-type: none; 
+  
+}
+.menu__item a{
+    font-size: 18px;
+    text-decoration: none;
+    color:white;
+   display: inline-block;
+    position: relative;
+}
+.sub_a:hover{
+color: black;
+text-decoration: none;
+
+}
+.Factoryadverts{
+color: white;
+    font-weight:800;
+font-family: 'Roboto', sans-serif;
+font-size: 48px;
+}
+.help{
+color: white;
+    font-weight:400;
+font-family: 'Roboto', sans-serif;
+font-size: 30px;
+}
+.blockone{
+margin-top: 243px;
+}
+.comp{
+margin-left: 566px;
+    margin-top: -300px
+}
+
+
+
+.knopka{
+ color: white;
+    position: relative;
+  display: inline-block;
+  font-size: 90%;
+  font-weight: 700;
+  text-decoration: none;
+  outline: none;
+  border-radius: 60px;
+  background:rgba(255,255,255,.2);
+    padding: 9px 40px 11px 40px;
+  box-shadow:
+   0 1px rgba(255,255,255,.2) inset,
+   0 3px 5px rgba(0,1,6,.5),
+   0 0 1px 1px rgba(0,1,6,.2);
+  transition: .2s ease-in-out;
+    border:3px solid white;
+    margin-top: 50px;
+    margin-left: -668px;
+    font-family: 'Roboto', sans-serif;
+        
+}
+a.knopka:hover:not(:active) {
+  background:#01f7b3 ;
+    text-decoration: none;
+    color: white;
+    border:3px solid #01f7b3;
+}
+a.knopka:active {
+  top: 1px;
+  background:#01f7b3 ;
+    text-decoration: none;
+  box-shadow:
+   0 0 1px rgba(0,0,0,.5) inset,
+   0 2px 3px rgba(0,0,0,.5) inset,
+   0 1px 1px rgba(255,255,255,.1);
+    color: white;
+}
+
+
+.knopka2{
+ color: white;
+    position: relative;
+  display: inline-block;
+  font-size: 90%;
+  font-weight: 700;
+  text-decoration: none;
+  outline: none;
+  border-radius: 60px;
+  background:rgba(255,255,255,.2);
+    padding: 9px 60px 11px 60px;
+  box-shadow:
+   0 1px rgba(255,255,255,.2) inset,
+   0 3px 5px rgba(0,1,6,.5),
+   0 0 1px 1px rgba(0,1,6,.2);
+  transition: .2s ease-in-out;
+    border:3px solid white;
+    margin-left: 50px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+a.knopka2:hover:not(:active) {
+  background:#01f7b3 ;
+    text-decoration: none;
+    color: white;
+    border:3px solid #01f7b3;
+}
+a.knopka2:active {
+  top: 1px;
+  background:#01f7b3 ;
+    text-decoration: none;
+  box-shadow:
+   0 0 1px rgba(0,0,0,.5) inset,
+   0 2px 3px rgba(0,0,0,.5) inset,
+   0 1px 1px rgba(255,255,255,.1);
+    color: white;
+}
+.hochy{
+margin-left: 37px;
+    margin-top: -18px;
+    font-size: 18px;
+ font-family: 'Roboto', sans-serif;
+font-weight: 300;
+    letter-spacing: 2px;
+    color: white;
+}
+.monetiz{
+color: white;
+text-decoration: underline;
+ font-family: 'Roboto', sans-serif;
+font-weight: 500;
+    text-decoration: underline;
+    letter-spacing: 2px;
+}
+.monetiz:hover{
+color: #e2e1e4;
+
+}
+.zogol{
+    font-size: 11px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+font-weight: 500;
+    margin-top: -90px;
+    margin-left: 100px;
+    
+    
+}
+
+.icone{
+margin-left: -230px
+
+
+}
+.podzogol{
+
+    font-size: 11px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+font-weight: 200;
+    margin-top: -px;
+    margin-left: 100px;
+
+}
+.see{
+float: right;
+padding-left: 30px;
+}
+.see1{
+float: right;
+padding-left: 30px;
+}
+
+.see2{
+float: right;
+padding-left: 30px;
+}
+
+.see3{
+float: right;
+padding-left: 30px;
+}
+.vce{
+margin-top: 600px;
+margin-right: -130px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.preumec{
+background: #312e43;
+    height: 600px;
+    margin-top: -440px
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
